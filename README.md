@@ -4,4 +4,4 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Live Site URL: [live site URL here]([https://your-live-site-url.com](https://abdulazizbahaj.github.io/Intro-component-with-sign-up-form/))
+- Live Site URL: [live site URL here](https://abdulazizbahaj.github.io/Intro-component-with-sign-up-form/)
